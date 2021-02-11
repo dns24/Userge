@@ -9,6 +9,7 @@ RUN apt -qq install -y --no-install-recommends \
     curl \
     git \
     gnupg2 \
+    megatools \
     unzip \
     wget \
     ffmpeg \
